@@ -1,0 +1,117 @@
+# SPOTLOCATE
+# Copyright (C) 2012 Mark P. Lindhout
+# This file is distributed under the same license as the Spotlocate plugin for Wordpres.
+# Mark P. Lindhout <mark@webambacht.nl>, 2012.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.0.1\n"
+"Report-Msgid-Bugs-To: Mark P. Lindhout <mark@webambacht.nl>\n"
+"POT-Creation-Date: 2012-06-28 17:49+0200\n"
+"PO-Revision-Date: 2012-06-28 17:49+0200\n"
+"Last-Translator: Mark P. Lindhout <mark@webambacht.nl>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: spotlocate.php:74 spotlocate.php:75
+msgid "Location:"
+msgstr ""
+
+#: spotlocate.php:78
+msgid "Current location:"
+msgstr ""
+
+#: spotlocate.php:109
+msgid "Enter a location name or coordinates"
+msgstr ""
+
+#: spotlocate.php:122
+msgid "What is your location?"
+msgstr ""
+
+#: spotlocate.php:163
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: spotlocate.php:196
+msgid "The options were succesfully saved."
+msgstr ""
+
+#: spotlocate.php:199
+msgid "Spotlocate Options"
+msgstr ""
+
+#: spotlocate.php:201
+msgid "Map"
+msgstr ""
+
+#: spotlocate.php:207
+msgid "Size of the map, in pixels. (width x height)"
+msgstr ""
+
+#: spotlocate.php:212
+msgid "Road map"
+msgstr ""
+
+#: spotlocate.php:213
+msgid "Terrain"
+msgstr ""
+
+#: spotlocate.php:214
+msgid "Satellite"
+msgstr ""
+
+#: spotlocate.php:215
+msgid "Hybrid"
+msgstr ""
+
+#: spotlocate.php:217
+msgid "Map display type"
+msgstr ""
+
+#: spotlocate.php:222
+msgid "Zoom level (1-24)"
+msgstr ""
+
+#: spotlocate.php:225
+msgid "Marker"
+msgstr ""
+
+#: spotlocate.php:228
+msgid "Marker size"
+msgstr ""
+
+#: spotlocate.php:231
+msgid "Tiny"
+msgstr ""
+
+#: spotlocate.php:232
+msgid "Small"
+msgstr ""
+
+#: spotlocate.php:233
+msgid "Medium"
+msgstr ""
+
+#: spotlocate.php:234
+msgid "Large"
+msgstr ""
+
+#: spotlocate.php:239
+msgid "Marker color"
+msgstr ""
+
+#: spotlocate.php:253
+msgid "Marker label"
+msgstr ""
+
+#: spotlocate.php:258
+msgid "Map image type"
+msgstr ""
+
+#: spotlocate.php:272
+msgid "Save Changes"
+msgstr ""
